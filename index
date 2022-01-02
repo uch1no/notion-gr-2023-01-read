@@ -1,5 +1,5 @@
-      <!-- Show static HTML/CSS as a placeholder in case js is not enabled - javascript include will override this if things work -->
-      <style type="text/css" media="screen">
+ <html>   
+       <style type="text/css" media="screen">
   .gr_custom_container_1641155830 {
     /* customize your Goodreads widget container here*/
     border: 1px solid gray;
@@ -65,3 +65,6 @@
 
       </div>
       <script src="https://www.goodreads.com/review/custom_widget/107822755.Rodrigo's%20bookshelf:%202022?cover_position=left&cover_size=small&num_books=5&order=a&shelf=2022&show_author=1&show_cover=1&show_rating=1&show_review=1&show_tags=1&show_title=1&sort=date_added&widget_bg_color=FFFFFF&widget_bg_transparent=&widget_border_width=1&widget_id=1641155830&widget_text_color=000000&widget_title_size=medium&widget_width=medium" type="text/javascript" charset="utf-8"></script>
+      
+      </html>
+     
